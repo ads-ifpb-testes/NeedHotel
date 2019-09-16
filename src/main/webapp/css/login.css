@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#CopyRight{
+    text-align: left;
+    margin-left: 20px;
+}
+
+#card-login{
+    margin-top: 10% !important;
+}

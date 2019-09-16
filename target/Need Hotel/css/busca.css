@@ -1,0 +1,30 @@
+#formSearch{
+    width: 800px;
+    border: 1px solid black;
+    height: 47px;
+    border-radius: 10px;
+    margin-top: 7%;
+}
+
+#search{
+    margin-left: 5px;
+}
+
+#btnSearch{
+    height: 45px;
+    padding: 0px;
+    width: 120px;
+}
+
+#nomeImovel{
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+
+.card{
+    border: 1px solid black;
+}
+
+
+
+
